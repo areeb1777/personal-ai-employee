@@ -1,0 +1,240 @@
+[
+  {
+    "timestamp": "2026-03-02T04:46:35.797114",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19cabcb639936e7c",
+    "from": "Muhammad Areeb <muhammadareeb1777@gmail.com>",
+    "subject": "URGENT: Invoice for testing AI Employee",
+    "priority": "high",
+    "action_file": "EMAIL_20260302_044635_URGENT__Invoice_for_testing_AI_Employee.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:35.804729",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19cab9467b995859",
+    "from": "Google <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "priority": "high",
+    "action_file": "EMAIL_20260302_044635_Security_alert.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:35.837349",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19caa57c438a0132",
+    "from": "The Airtable Team <team@mail.airtable.com>",
+    "subject": "Don\u2019t build alone\u2014invite your team",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044635_Don_t_build_alone_invite_your_team.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:35.860963",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19ca48c8a26e56a3",
+    "from": "LinkedIn <messages-noreply@linkedin.com>",
+    "subject": "Abdul Rasheed is someone you may want to connect with",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044635_Abdul_Rasheed_is_someone_you_may_want_to.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:35.896018",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19ca122fa2806d1f",
+    "from": "noreply@tm.openai.com",
+    "subject": "Your ChatGPT code is 858648",
+    "priority": "high",
+    "action_file": "EMAIL_20260302_044635_Your_ChatGPT_code_is_858648.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:35.925457",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c9d40967d90fcd",
+    "from": "LinkedIn <updates-noreply@linkedin.com>",
+    "subject": "Areeb, LinkedIn News Asia has a new post for you",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044635_Areeb__LinkedIn_News_Asia_has_a_new_post.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:35.948321",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c9b96173a74e96",
+    "from": "Spotify <no-reply@legal.spotify.com>",
+    "subject": "Spotify for Developers - Action required: Development Mode updates on March 9",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044635_Spotify_for_Developers_-_Action_required.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:35.966225",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c965315e77efa6",
+    "from": "Zapier News <news@send.zapier.com>",
+    "subject": "Three updates to automate and use AI like a pro",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044635_Three_updates_to_automate_and_use_AI_lik.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:35.984949",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c91e5f793fd767",
+    "from": "Microsoft account team <account-security-noreply@accountprotection.microsoft.com>",
+    "subject": "Verify your email address",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044635_Verify_your_email_address.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.003307",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c9026a26dcd647",
+    "from": "LinkedIn <messages-noreply@linkedin.com>",
+    "subject": "Farhan Ali, Assistant Human Resources Officer at Faisal Movers Logistics Cell is someone you may want to connect with",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_Farhan_Ali__Assistant_Human_Resources_Of.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.020832",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c8e4bca66c7a20",
+    "from": "Canva <marketing@engage.canva.com>",
+    "subject": "Hey there Muhammad! See how social media has changed.",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_Hey_there_Muhammad__See_how_social_media.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.046243",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c89150405de14f",
+    "from": "LinkedIn <updates-noreply@linkedin.com>",
+    "subject": "Areeb, LinkedIn News Asia has a new post for you",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_Areeb__LinkedIn_News_Asia_has_a_new_post.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.073107",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c85d22f05f24d7",
+    "from": "LinkedIn <notifications-noreply@linkedin.com>",
+    "subject": "You have 3 new invitations",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_You_have_3_new_invitations.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.090379",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c8254e2c0ecc2c",
+    "from": "Areeb Malik <noreply@jotform.com>",
+    "subject": "We have received your response for Form",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_We_have_received_your_response_for_Form.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.119026",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c820397d48c765",
+    "from": "Areeb Malik <noreply@jotform.com>",
+    "subject": "We have received your response for Form",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_We_have_received_your_response_for_Form.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.138328",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c8200c8e3403cf",
+    "from": "Areeb Malik <noreply@jotform.com>",
+    "subject": "We have received your response for Form",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_We_have_received_your_response_for_Form.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.163701",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c81f97da936810",
+    "from": "Jotform <noreply@jotform.com>",
+    "subject": "We have received your response for Feedback Form",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_We_have_received_your_response_for_Feedb.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.182084",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c81f86d9cee469",
+    "from": "Jotform <noreply@jotform.com>",
+    "subject": "We have received your response for Feedback Form",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_We_have_received_your_response_for_Feedb.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.203803",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c81f207f048ec9",
+    "from": "Jotform <noreply@jotform.com>",
+    "subject": "We have received your response for Feedback Form",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_We_have_received_your_response_for_Feedb.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T04:46:36.222977",
+    "watcher": "GmailWatcher",
+    "action_type": "email_received",
+    "email_id": "19c7cda9e1cf392b",
+    "from": "Typeform <news@typeform.com>",
+    "subject": "Unforgettable forms? Here\u2019s the secret \ud83d\udc40",
+    "priority": "normal",
+    "action_file": "EMAIL_20260302_044636_Unforgettable_forms__Here_s_the_secret.md",
+    "dry_run": true
+  },
+  {
+    "timestamp": "2026-03-02T09:00:00Z",
+    "action_type": "emails_processed",
+    "actor": "claude_code",
+    "emails_processed": 1,
+    "replies_drafted": 1,
+    "auto_archived": 0,
+    "needs_human_review": 0,
+    "details": {
+      "email_file": "EMAIL_20260302_044635_URGENT__Invoice_for_testing_AI_Employee.md",
+      "from": "Muhammad Areeb <muhammadareeb1777@gmail.com>",
+      "subject": "URGENT: Invoice for testing AI Employee",
+      "routing": "pending_approval",
+      "reason": "Financial action — $500 invoice requires human approval",
+      "approval_file": "APPROVAL_send_email_2026-03-02_Re_URGENT_Invoice_for_testing_AI_Employee.md"
+    },
+    "result": "success"
+  }
+]

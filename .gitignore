@@ -1,0 +1,70 @@
+# AI Employee Vault — .gitignore
+# Security: never commit credentials or session data
+
+# -----------------------------------------------------------------------
+# CREDENTIALS (CRITICAL — never commit these)
+# -----------------------------------------------------------------------
+.env
+*.env
+.env.*
+!.env.example
+
+# OAuth tokens
+token.json
+*_token.json
+credentials.json
+*_credentials.json
+
+# LinkedIn session (Playwright + Selenium)
+.linkedin_session/
+.linkedin_session_chrome/
+watchers/.linkedin_session/
+watchers/.linkedin_session_chrome/
+linkedin_token.json
+
+# WhatsApp session
+.whatsapp_session/
+wa_session/
+
+# -----------------------------------------------------------------------
+# WATCHER STATE FILES (local runtime state, not version-controlled)
+# -----------------------------------------------------------------------
+watchers/.gmail_processed_ids.json
+watchers/.processed_ids.json
+watchers/*.pid
+
+# -----------------------------------------------------------------------
+# PYTHON
+# -----------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# -----------------------------------------------------------------------
+# NODE.JS (if any future JS components)
+# -----------------------------------------------------------------------
+node_modules/
+npm-debug.log*
+
+# -----------------------------------------------------------------------
+# OBSIDIAN WORKSPACE (personal, machine-specific)
+# -----------------------------------------------------------------------
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# -----------------------------------------------------------------------
+# OS JUNK
+# -----------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*~

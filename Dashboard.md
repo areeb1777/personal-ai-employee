@@ -1,6 +1,6 @@
 # AI Employee Dashboard
 ---
-last_updated: 2026-02-20 16:35:00
+last_updated: 2026-03-02 09:00:00
 updated_by: claude_code
 status: active
 ---
@@ -20,8 +20,8 @@ status: active
 | Folder | Count |
 |--------|-------|
 | /Inbox | 2 |
-| /Needs_Action | 2 |
-| /Pending_Approval | 0 |
+| /Needs_Action | 1 |
+| /Pending_Approval | 1 |
 | /Approved | 1 |
 | /Done (today) | 0 |
 
@@ -29,6 +29,7 @@ status: active
 
 ## Recent Activity
 
+- [2026-03-02 09:00] Processed 1 email from /Needs_Action — URGENT invoice ($500) routed to /Pending_Approval
 - [2026-02-20 16:35] Re-triaged /Needs_Action — detected approved item missing context
 - [2026-02-20 16:35] `payment_receipt_request.txt` → approval received ✅ but BLOCKED on missing details (recipient, payment ref, format)
 - [2026-02-20 16:30] Triaged 2 item(s) from /Needs_Action
@@ -45,7 +46,7 @@ status: active
 
 ## Pending Approvals
 
-_No items currently awaiting approval._
+- [APPROVAL_send_email_2026-03-02_Re_URGENT_Invoice_for_testing_AI_Employee.md] ⚠️ HIGH PRIORITY — $500 invoice reply draft awaiting approval (financial action)
 
 ---
 
@@ -58,9 +59,10 @@ _No items currently awaiting approval._
 
 ## Quick Stats (This Week)
 
-- **Tasks Processed:** 2
-- **Files Triaged:** 2
+- **Tasks Processed:** 3
+- **Files Triaged:** 3
 - **Plans Created:** 1
+- **Emails Processed:** 1
 - **Items Completed:** 0
 
 ---

@@ -1,0 +1,41 @@
+# AI Employee Vault — Python Dependencies
+# =========================================
+# Python version: 3.12+ required (3.12.5 recommended)
+#
+# Setup:
+#   python -m venv .venv
+#   .venv\Scripts\activate        (Windows PowerShell)
+#   source .venv/bin/activate     (Mac/Linux)
+#   pip install -r requirements.txt
+#
+# After install, also run:
+#   playwright install chromium   (optional, only if using Playwright)
+
+# ---------------------------------------------------------------------------
+# Bronze Tier — Core
+# ---------------------------------------------------------------------------
+watchdog>=4.0.0               # Filesystem event monitoring (filesystem_watcher.py)
+python-dotenv>=1.0.0          # Load .env files (used by all watchers + orchestrator)
+
+# ---------------------------------------------------------------------------
+# Silver Tier — Gmail
+# ---------------------------------------------------------------------------
+google-auth>=2.29.0                   # Google OAuth2 authentication
+google-auth-oauthlib>=1.2.0           # OAuth2 flow for installed apps (gmail_auth.py)
+google-api-python-client>=2.127.0     # Gmail API client (gmail_watcher.py)
+
+# ---------------------------------------------------------------------------
+# Silver Tier — LinkedIn (Browser Automation, no Developer App needed)
+# ---------------------------------------------------------------------------
+selenium>=4.20.0              # Chrome browser automation (linkedin_selenium_poster.py)
+webdriver-manager>=4.0.0      # Auto-downloads matching ChromeDriver
+
+# ---------------------------------------------------------------------------
+# Silver Tier — HTTP + LinkedIn API (linkedin_watcher.py)
+# ---------------------------------------------------------------------------
+requests>=2.32.0              # HTTP client for LinkedIn API calls
+
+# ---------------------------------------------------------------------------
+# Silver Tier — Email MCP Server (mcp-servers/email-mcp/server.py)
+# ---------------------------------------------------------------------------
+mcp>=1.0.0                    # Model Context Protocol SDK (Claude tool integration)

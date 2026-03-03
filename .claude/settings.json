@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "email": {
+      "command": "python",
+      "args": [
+        "D:\\Web Development\\AI\\AI-Native Hackathon\\Hackathon 0 Personal AI Employee\\AI_Employee_Vault\\mcp-servers\\email-mcp\\server.py"
+      ]
+    }
+  }
+}
